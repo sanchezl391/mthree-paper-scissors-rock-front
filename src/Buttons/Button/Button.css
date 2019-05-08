@@ -1,0 +1,15 @@
+
+.hand, .rock, .scissors {
+    color: #f1c40f;
+}
+
+.buttonContainer {
+    padding: 10px 20px;
+    background: #3498db; 
+    border-radius: 5px;
+    margin: 0 20px;
+}
+.buttonContainer:hover {
+    cursor: pointer;
+    background: #2980b9;
+}

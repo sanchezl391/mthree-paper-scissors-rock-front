@@ -1,0 +1,15 @@
+.nameContainer {
+    padding: 5px 10px;
+    display: flex;
+}
+
+button {
+    background: #2ecc71;
+    color: white;   
+    border: none;
+    border-radius: 5px;
+    padding: 5px 15px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
